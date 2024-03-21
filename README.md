@@ -1,4 +1,4 @@
-## ☭ By reading just 10 texts in this order you'll genuinely understand Communism and Socialism better than most western/internet leftists ☭
+## ☭ By reading just 10 texts you'll genuinely understand Communism and Socialism better than most western/internet leftists ☭
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/communistreadinglist/communistreadinglist.github.io/main/img/lenin40k.png">
