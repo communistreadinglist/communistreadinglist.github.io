@@ -1,8 +1,6 @@
 ## By reading just 10 texts in this order you'll genuinely understand Communism and Socialism better than most western/internet leftists
 
-> [!NOTE]
-> 
-> **_This list aims to be the best and easiest to follow reguarding Marxism, Communism and Socialism that is freely avaliable online._**
+### :warning:	**_This list aims to be the best and easiest to follow reguarding Marxism, Communism and Socialism that is freely avaliable online._**
 
 ## Main List
 
@@ -22,15 +20,17 @@
 ### why?
 This is a reading list that was collectively made by Communists and Historians which is aimed to be the best possible regarding the following aspects:
 1. The common bases of Communism: what does this mean? There are many lines of communist though (Example: Maoism is considered to be a line of communist that builds on Marxist-Leninist thought), but this reading list should have most of the common bases between all of them (except some weird and maybe revisionist sects)
+   
 2. Difficulty Level: All the texts are ordered by difficulty level in a manner where concepts are more easily digestible as you move through it
+   
 3. Being a starting point: This is a list that serves as a base in Marxist though, it's meant to be re-read and more importantly, added to: feel free to, when reading, complement it with other Marxist texts!
 
 
-> [!CAUTION]
-> 
-> Underneath is Aditional Bibliography that is incredibly dense and **CONSULTATIONAL**, _**DO NOT attempt to read these cover to cover!**_
->  If someone told you to start with Capital **they do not know what they are talking about**, it's not meant to be read in this manner and attempting this will only make you quit reading Marxist texts.
->  Use these to consult specific information when necessary, and preferably only AFTER Reading the 5th item on the list: Value, Price and Profit ; This is because it's the basis of understanding these more complex texts.
+:warning: Underneath is Aditional Bibliography that is incredibly dense and **CONSULTATIONAL**, _**DO NOT attempt to read these cover to cover!**_
+
+:warning:  If someone told you to start with Capital **they do not know what they are talking about**, it's not meant to be read in this manner and attempting this will only make you quit reading Marxist texts.
+
+:warning:  Use these to consult specific information when necessary, and preferably only AFTER Reading the 5th item on the list: Value, Price and Profit ; This is because it's the basis of understanding these more complex texts.
 
 
 ### Capital - A Critique of Political Economy
