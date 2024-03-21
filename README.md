@@ -3,6 +3,7 @@
 > **_This list aims to be the best and easiest to follow reguarding Marxism, Communism and Socialism that is freely avaliable online._**
 
 ## Main List
+
 | Order  | Text | Writer  | Link | 
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | The Three Sources and Three Component Parts of Marxism  | Lenin  | [link](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)  |
@@ -30,6 +31,7 @@ This is a reading list that was collectively made by Communists and Historians w
 
 
 ### Capital - A Critique of Political Economy
+
 | Text | Writer  | Link |
 | ------------- | ------------- | ------------- |
 | Volume   I: The Process of Production of Capital  | Marx  | [link](https://www.marxists.org/archive/marx/works/1867-c1/index.htm)  |
@@ -37,6 +39,7 @@ This is a reading list that was collectively made by Communists and Historians w
 | Volume III: The Process of Capitalist Production as a Whole  | Marx/Engels  | [link](https://www.marxists.org/archive/marx/works/1894-c3/index.htm)  |
 
 ### POLITICAL ECONOMY
+
 | Text | Writer  | Link |
 | ------------- | ------------- | ------------- |
 | POLITICAL ECONOMY A Textbook issued by the Economics Institute of the Academy of Sciences of the U.S.S.R  | U.S.S.R. Academy of Sciences  | [link](https://www.marxists.org/subject/economy/authors/pe/index.htm)  |
