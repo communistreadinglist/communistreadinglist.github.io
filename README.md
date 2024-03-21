@@ -63,7 +63,7 @@ I will probably update this with more resources and pages later as I learn to us
 
 <p align="center">
 <span style="color:red;font-weight:10;font-size:250px">
-☭
+[☭](https://www.cipoml.net)
 </span>
 <img src="https://raw.githubusercontent.com/communistreadinglist/communistreadinglist.github.io/main/img/the-interrogation-of-the-good-by-bertolt-brecht.png">
 </p>
