@@ -62,7 +62,7 @@ it's an amazing source for understanding the basis of communism, the video has w
 I will probably update this with more resources and pages later as I learn to use github pages better, peace.
 
 <p align="center">
-<span style="color:red;font-weight:500;font-size:200px">
+<span style="color:red;font-weight:10;font-size:250px">
 ☭
 </span>
 </p>
