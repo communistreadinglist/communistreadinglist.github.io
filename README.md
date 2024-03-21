@@ -59,11 +59,11 @@ This is a reading list that was collectively made by Communists and Historians w
 This reading list is translated and adapted from the list in [this video](https://youtu.be/cg5winGpx80?si=-OeDklUfnC8u7ep6) 
 it's an amazing source for understanding the basis of communism, the video has well-translated English Captions despite the audio and on-screen text being entirely in Brazilian Portuguese
 
-I will probably update this with more resources and pages later as I learn to use github pages better, peace.
+I will probably update this with more resources and pages later as I learn to use github pages better, [peace](https://github.com/communistreadinglist/communistreadinglist.github.io/blob/main/README.md?plain=1).
 
 <p align="center">
 <span style="color:red;font-weight:10;font-size:250px">
-[☭](https://www.cipoml.net)
+☭
 </span>
 <img src="https://raw.githubusercontent.com/communistreadinglist/communistreadinglist.github.io/main/img/the-interrogation-of-the-good-by-bertolt-brecht.png">
 </p>
