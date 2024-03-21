@@ -1,8 +1,12 @@
 ## ☭ By reading just 10 texts in this order you'll genuinely understand Communism and Socialism better than most western/internet leftists ☭
 
-![lenin40k](https://github.com/communistreadinglist/communistreadinglist.github.io/assets/164127384/aa2659af-e478-4ead-9339-8e00b8517ad5)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/communistreadinglist/communistreadinglist.github.io/main/img/lenin40k.png">
+</p>
+<p align="center">
 We Have Nothing to Lose but Our Chains ⛓️💥🔨 
+</p>
+
 
 ### ⚠️	**_This list aims to be the best and easiest to follow reguarding Marxism, Communism and Socialism that is freely avaliable online._**
 
@@ -55,6 +59,10 @@ This is a reading list that was collectively made by Communists and Historians w
 This reading list is translated and adapted from the list in [this video](https://youtu.be/cg5winGpx80?si=-OeDklUfnC8u7ep6) 
 it's an amazing source for understanding the basis of communism, the video has well-translated English Captions despite the audio and on-screen text being entirely in Brazilian Portuguese
 
-I will probably update this with more resources and pages later as I learn to use github pages better.
+I will probably update this with more resources and pages later as I learn to use github pages better, peace.
 
+<p align="center">
+<span style="color:red;font-weight:500;font-size:50">
 ☭
+</span>
+</p>
