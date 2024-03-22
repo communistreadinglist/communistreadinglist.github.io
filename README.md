@@ -66,7 +66,5 @@ I will probably update this with more resources and pages later as I learn to us
 ☭
 </span>
 
-<script defer data-domain="communistreadinglist.github.io" src="https://plausible.io/js/script.js"></script>
-
 <img src="https://raw.githubusercontent.com/communistreadinglist/communistreadinglist.github.io/main/img/the-interrogation-of-the-good-by-bertolt-brecht.png">
 </p>
