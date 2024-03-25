@@ -68,3 +68,4 @@ I will probably update this with more resources and pages later as I learn to us
 
 <img src="https://raw.githubusercontent.com/communistreadinglist/communistreadinglist.github.io/main/img/the-interrogation-of-the-good-by-bertolt-brecht.png">
 </p>
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b6c2ae82076844dcb1e8a8a9dc926ad2"}'></script><!-- End Cloudflare Web Analytics -->
